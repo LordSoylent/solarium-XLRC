@@ -27,3 +27,35 @@ More information at [savebitcoin.io](http://www.savebitcoin.io)
 | 1050001-2100000  | 85% (4.25 XLRC)  | 10% (0.5 XLRC)   | 5% (0.25 XLRC)  |
 | 2100001-3150000  | 85% (2.13 XLRC)  | 10% (0.25 XLRC)  | 5% (0.13 XLRC)  |
 | 3150001-Infinite | 85% (1.06 XLRC)  | 10% (0.13 XLRC)  | 5% (0.06 XLRC)  |
+
+solarium coin XLRC is hardfork from solarium SLRC 1/5/2018
+
+Solarium Coin (XLRC) Specification
+
+Coin Name : Solarium Coin
+
+Ticker : XLRC
+
+Coin Type : POW/POS / Masternode
+
+MAXIMUM BLOCK SIZE : 3 MB
+
+Block Time : 60 Sec Approx
+
+MINIMUM STAKE AGE : 24 Hr
+
+Coin Maturity : 80
+
+MAX SUPPLY : 20,500,000 Coins
+
+RPC Port: 4141
+
+Network Port: 5151
+
+Find the Compiled Wallets here https://github.com/solariumcoin/wallet
+
+Addnode to solarium.conf
+
+addnode=178.62.57.88 addnode=159.65.94.40
+
+Wallet Masternode Setup Guides https://github.com/solariumcoin/wallets/blob/wallet/Solarium%20MN%20Setup%20Guide.pdf
