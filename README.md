@@ -13,9 +13,9 @@ Discord :https://discord.gg/pbgjMP4
 
 ### Coin Specs
 | Block Time                  | 60 Seconds      |
-| Max Coin Supply (PoW Phase) | 500,000 XLRC    |
+
 | Max Coin Supply (PoS Phase) | 20,500,000 XLRC |
-| Premine                     | 2,999,999 XLRC    |
+| Premine                     | 2,999,999 XLRC swap |
 
 solarium coin XLRC is hardfork from solarium SLRC 1/5/2018
 
