@@ -1,4 +1,4 @@
-Solarium Core integration/staging repository
+Solarium Core 
 =================================================
 
 believed in the project  Started out from the idea of saving energy! This is a good platform to invest in for an easy, fair and sustainable gradual increase in block rewards for a very good long-term investment. Anonymous transaction monitored through the block chain for complete independence from the government. You will be able to Instantly transfer Peer to Peer and all your transaction’s will be encrypted for an easy and fast transaction. We believe that this project would help the crypto currency system and will not produce high electricity usage and will help to save our planet with low energy consumption transactions.
