@@ -1,0 +1,11 @@
+[Protocol]
+exec=solarium-qt '%u'
+protocol=solarium
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
