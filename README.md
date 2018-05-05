@@ -47,4 +47,4 @@ Addnode to solarium.conf
 
 addnode=178.62.57.88 addnode=159.65.94.40
 
-Wallet Masternode Setup Guides https://github.com/solariumcoin/wallets/blob/wallet/Solarium%20MN%20Setup%20Guide.pdf
+Wallet Masternode Setup Guides https://github.com/solariumcoin/wallet/blob/master/XLRC%20masternode%20setup%20guide.pdf
