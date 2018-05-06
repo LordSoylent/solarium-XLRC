@@ -10,6 +10,7 @@ believed in the project  Started out from the idea of saving energy! This is a g
 
 More information at Email : solariumcoin@gmail.com
 Discord :https://discord.gg/pbgjMP4
+web: https://solariumcoin.wixsite.com/solariumcoin
 
 ### Coin Specs
 | Block Time                  | 60 Seconds      |
