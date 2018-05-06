@@ -38,7 +38,7 @@ Coin Maturity : 80
 
 MAX SUPPLY : 20,500,000 Coins
 
-RPC Port: 4141
+RPC Port: 6363 or any port
 
 Network Port: 5151
 
