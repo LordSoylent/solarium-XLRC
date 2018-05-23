@@ -46,7 +46,16 @@ Find the Compiled Wallets here https://github.com/solariumcoin/wallet
 
 Addnode to solarium.conf
 
-addnode=178.62.57.88 addnode=159.65.94.40
+addnode=194.67.200.223:5151
+addnode=185.117.153.77:5151
+addnode=193.124.181.129:5151
+addnode=94.142.141.62:5151
+addnode=144.217.94.239:5151",
+addnode=140.82.39.88:5151
+addnode=185.58.205.60:5151
+addnode=67.170.34.149:5151
+addnode=94.142.141.62:5151
+addnode=149.28.41.164:5151
 
 Wallet Masternode Setup Guides https://github.com/solariumcoin/wallet/blob/master/XLRC%20masternode%20setup%20guide.pdf
 Wallet Masternode Setup Guides ubuntu https://github.com/solariumcoin/Solarium-XLRC-1
