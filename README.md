@@ -63,6 +63,6 @@ Wallet Masternode Setup Guides ubuntu https://github.com/solariumcoin/Solarium-X
 masternode script ubuntu linux setup https://github.com/solariumcoin/Solarium-XLRC-1/blob/master/solarium_install.sh
 
 
-twitter :https://twitter.com/XlrcOfficial
+twitter :https://twitter.com/xlrcsolarium
 website : https://www.xlrc.info/
 Discord :https://discord.gg/pbgjMP4
