@@ -59,6 +59,7 @@ addnode=149.28.41.164:5151
 
 Wallet Masternode Setup Guides https://github.com/solariumcoin/wallet/blob/master/XLRC%20masternode%20setup%20guide.pdf
 Wallet Masternode Setup Guides ubuntu https://github.com/solariumcoin/Solarium-XLRC-1
+windows hot masternode setup https://github.com/solariumcoin/wallet/blob/master/Solarium%20Windows%20Hot%20Wallet.pdf
 
 masternode script ubuntu linux setup https://github.com/solariumcoin/Solarium-XLRC-1/blob/master/solarium_install.sh
 
