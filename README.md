@@ -10,7 +10,7 @@ believed in the project  Started out from the idea of saving energy! This is a g
 
 More information at Email : solariumcoin@gmail.com
 Discord :https://discord.gg/pbgjMP4
-web: https://solariumcoin.wixsite.com/solariumcoin
+website : https://www.xlrc.info/
 
 ### Coin Specs
 | Block Time                  | 60 Seconds      |
@@ -60,6 +60,7 @@ addnode=149.28.41.164:5151
 Wallet Masternode Setup Guides https://github.com/solariumcoin/wallet/blob/master/XLRC%20masternode%20setup%20guide.pdf
 Wallet Masternode Setup Guides ubuntu https://github.com/solariumcoin/Solarium-XLRC-1
 windows hot masternode setup https://github.com/solariumcoin/wallet/blob/master/Solarium%20Windows%20Hot%20Wallet.pdf
+linux + windows cold MN setup https://github.com/solariumcoin/wallet/blob/master/Solarium%20Linux%20Masternode%20with%20Windows%20Cold%20Wallet.pdf
 
 masternode script ubuntu linux setup https://github.com/solariumcoin/Solarium-XLRC-1/blob/master/solarium_install.sh
 
