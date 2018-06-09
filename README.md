@@ -10,7 +10,7 @@ believed in the project  Started out from the idea of saving energy! This is a g
 
 More information at Email : solariumcoin@gmail.com
 Discord :https://discord.gg/pbgjMP4
-website : https://www.xlrc.info/
+website : http://www.xlrc.info/
 
 ### Coin Specs
 | Block Time                  | 60 Seconds      |
@@ -65,6 +65,6 @@ linux + windows cold MN setup https://github.com/solariumcoin/wallet/blob/master
 masternode script ubuntu linux setup https://github.com/solariumcoin/Solarium-XLRC-1/blob/master/solarium_install.sh
 
 
-twitter :https://twitter.com/xlrcsolarium
-website : https://www.xlrc.info/
+twitter :https://twitter.com/xlrcdev
+website : http://www.xlrc.info/
 Discord :https://discord.gg/pbgjMP4
